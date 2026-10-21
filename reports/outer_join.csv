@@ -1,0 +1,6 @@
+department,headcount,average_salary,maximum_salary,head,budget,_merge
+Finance,1.0,90000.0,90000.0,Meera,600000,both
+HR,2.0,46500.0,48000.0,Lakshmi,400000,both
+IT,3.0,67666.66666666667,75000.0,Prakash,900000,both
+Marketing,,,,Kavya,350000,right_only
+Sales,2.0,41000.0,52000.0,Anand,500000,both

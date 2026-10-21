@@ -1,0 +1,5 @@
+department,headcount,average_salary,maximum_salary,head,budget,_merge
+Finance,1,90000.0,90000,Meera,600000,both
+HR,2,46500.0,48000,Lakshmi,400000,both
+IT,3,67666.66666666667,75000,Prakash,900000,both
+Sales,2,41000.0,52000,Anand,500000,both
